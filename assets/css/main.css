@@ -2255,6 +2255,14 @@ input, select, textarea {
 			font-family: 'Font Awesome 5 Brands';
 		}
 
+		.icon.fa-university:before {
+			font-weight:900;
+		}
+
+		.icon.fa-dna:before {
+			font-weight:900;
+		}
+
 		.icon.major {
 			border: solid 1px;
 			display: inline-block;
